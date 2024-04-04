@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items:start;
-    width: 50%;
+    width: 100%;
     margin-left: 20px;
     transition: 1s;
 }
@@ -22,7 +22,7 @@ h1 {
     opacity: 0.8;
 }
  
-h2, h3, h4 {
+.titles {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: antiquewhite;
     font-weight: 300;
@@ -114,6 +114,9 @@ fieldset {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
 }
+.body-container {
+    width: 50%;
+}
 
 
 
@@ -123,5 +126,10 @@ fieldset {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 
+}
+
+footer{
+    color: rgb(7, 194, 208);
+    width: 100vw !important;
 }
 
