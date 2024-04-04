@@ -22,7 +22,7 @@ h1 {
     opacity: 0.8;
 }
  
-h2, h3, h4 {
+.titles {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: antiquewhite;
     font-weight: 300;
@@ -113,6 +113,10 @@ fieldset {
     color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
+}
+
+.body-container {
+    width: 50%;
 }
 
 
