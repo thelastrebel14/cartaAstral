@@ -114,13 +114,22 @@ fieldset {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
 }
-
 .body-container {
     width: 50%;
 }
 
 
+
+.articulos {
+
+    color: fuchsia;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+
 footer{
     color: rgb(7, 194, 208);
     width: 100vw !important;
 }
+
