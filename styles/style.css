@@ -122,5 +122,9 @@ fieldset {
 
 footer{
     color: rgb(7, 194, 208);
-    width: 100vw !important;
+    width: 100%;
+}
+
+.btn{
+    margin: 50px;
 }
