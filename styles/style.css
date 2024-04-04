@@ -6,7 +6,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items:start;
-    width: 50%;
     margin-left: 20px;
     transition: 1s;
 }
@@ -113,6 +112,10 @@ fieldset {
     color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
+}
+
+.body-container {
+    width: 50%;
 }
 
 
