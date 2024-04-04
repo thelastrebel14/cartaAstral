@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items:start;
-    width: 50%;
+    width: 100%;
     margin-left: 20px;
     transition: 1s;
 }
@@ -116,4 +116,7 @@ fieldset {
 }
 
 
-
+footer{
+    color: rgb(7, 194, 208);
+    width: 100vw !important;
+}
