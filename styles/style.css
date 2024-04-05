@@ -118,7 +118,6 @@ fieldset {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
 }
-
 .body-container {
     width: 50%;
 }
@@ -134,7 +133,49 @@ header{
 
 
 
+
+.articulos {
+
+    color: fuchsia;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+
 footer{
     color: rgb(7, 194, 208);
     width: 100vw !important;
+}
+
+.card-img-top {
+    width: 270px;
+    align-items: center;
+
+
+}
+
+
+.card-title {
+    color: aliceblue;
+    font-size: 30px
+}
+
+
+.card {
+    background-color: black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10 px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+
+
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+
+
 }
